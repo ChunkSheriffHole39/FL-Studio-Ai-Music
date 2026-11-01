@@ -28,7 +28,7 @@
 ---
 ## Installation
 
-* Scroll down and click the Download button
+* Click the Download button
 * Extract with WinRAR or 7-Zip - enter the password when prompted
 * The archive password is shown on the download page
 * Open the extracted folder and run the installer as administrator
